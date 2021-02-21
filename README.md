@@ -1,4 +1,4 @@
-# Node.js Boilerplate
+# Node.js TypeScript Boilerplate
 
 Node.js Boilerplate with Gulp and Babel.
 
